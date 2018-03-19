@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+     <!-- Read the chapter on TEI Headers. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html -->
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+            <div type="entry">
+               <head><pb n="74"/>Christmas at West Overton.</head>
+               
+               <p>On the night before mother + J.F.O. would place plates on the living room table, and
+                  would find them on Xmas morning heaped with fancy cakes, dried cherries + candies! Also,
+                  on the night before, mother would place a plate of oats on the basement porch bench, and
+                  on Xmas morning the plate would be empty but one-half dollar would be there!</p>
+               
+               <p>No gifts. No Christmas tree. They <del rend="strikethrough">would</del> attend Christmas service at the Mennonite Church
+                  at Alverton and have a special <abbr>Xmas</abbr> dinner at </p>
+               
+               <p><pb n="75"/>home after the <gap reason="tear" unit="word" quantity="1"/> Service.</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="76"/>New Year's Eve at Overton</head>
+               
+               <p>There would be a merry company gathered in the home, awaiting the coming of the patron
+                  Saint Belschnickel!</p>
+               
+               <p>Ide Would finally come, + throw nuts out for all</p>
+               
+               <p>When little, mother was afraid of him. Ide was so big + <unclear>qu???</unclear>. She would stick close to
+                  Anna Leighty .</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="89"/>Mothers duties, when a little girl,+ later</head>
+               
+               <p>Would keep water pitcher on G+JFO's wash-stand full: also would keep drinking water
+                  pitcher filled. G+JFO always wanted pitchers full.</p>
+               
+               <p>Later, would start living room grate fire each morning. - bringing up shavings from below
+                  + bringing in coal from the rear porch, second floor (had kept filled there by ??).
+                  Would lift ashes + place ??? on back porch (to be carried off by ???) </p>
+               
+               <p>Would milk, getting up long before daylight + milking by lantern light. After 15 yrs of
+                  age, didnt have this to do.</p>
+               
+               <p>Mrs. Fox taught her how to bake. Washing woman taught her howto wash; then When she knew
+                  how, she didnt have to do it.</p>
+               
+               <p>Would sweep + dust on the 2nd, 3rd floors; Would ??? the big porch floor + scour the
+                  threshold stone!</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="90"/>C.S.R.O. history + incidents</head>
+               
+               <p>When nightman at W. 0. w'ill?, once he by mistake took a jug containing concentrated dye,
+                  used in washing (a midnight lunch + a jug of home-made beer was always set out for him)
+                  He drank from the dye jug but as soon as he discovered it, he drank milk which prevented
+                  poisoning</p>
+               
+               <p>When watchmen at Broadford, once all alligator was set out for him in his midnight lunch.
+                  However he was wise, + didnt mistake it for fish? + eatit!</p>
+               
+               <p>C.S.R.O. worked at Broadford twice . (1) During + near close of Cine? bar, 1865, was
+                  watchman, lived at the old stone house near the River, where Jacob S.O. had lived.
+                  Suceeded by A.S. Justman</p>
+               
+               <p><pb n="91"/>(2) From late '67 to early '69, when he was in the Bfd Distillery. He lived
+                  in a second floor room in the hash? house on the H.O. Justman place, and boarded at the
+                  H.O.J. house, where Mrs. Chain? ran a boarding house.</p>
+               
+               <p>While there, Uncle Clay came to Bfd, + lived in the hashabaugh? house across the street,
+                  but boarded with Mrs. Chain? in the H.O.J. house.</p>
+               
+               <p>A.O.J. + ??? O.J. lived in H.O.J. house, as had Sr. Porter.?</p>
+               
+               <p>Upon leaving Bfd second time,Uncle Cris S.R.O. worked in W.O. distillery, + boarded with
+                  Granpap O. However he was ill with fever at his own home in Jan. '70 when GFO died.</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="92"/>Jan. 15, 1870 - 6a.m.)</head>
+               
+               <p>Grandpap O. died suddenly from a stroke, having gone to outhouse with lantern before
+                  breakfast. ?? ??? him + found him there, having fallen off upon entering outhouse.</p>
+               
+               <p>He was 85 years 9 months of age. ---------------------------------------------- At ?? he
+                  had had pains in back of his head, but seemed in his usual health, + on preceding
+                  evening he had p??? q??? with Chester Booker.</p>
+               
+               <p>Father + C.S.O. had been receiving Royal Area decree in Chapter Masonry at Gbg night
+                  before + were riding horseback home next morning when they heard of his health, at top
+                  of hill at ??</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="141"/>My dear Sister:</head>
+               
+               <p>We are deeply shocked and pained to hear of the death of Grace. We had heard some time
+                  ago that she was ailing but presumed she had recovered.</p>
+               
+               <p>I am afraid it will not be possible for any of us to attend her funeral, as we are having
+                  so much trouble in the Coke region.</p>
+               
+               <p>Your loss is a great one, but it is what we all have to ?? to. Ada ?? ?? tender sympathy
+                  and much love</p>
+               
+               <p>Affectionately yours</p>
+               
+               <p>Clay</p>
+               
+               <p>Apl 5/94</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="147"/>May 26. 1902</head>
+               
+               <p>Uncle Clay sent mother check for 3.000$ to buy lot (195' by 225') on Bealle Ave, Wooster,
+                  Ohio, and wrote</p>
+               
+               <p>"My dear Maria</p>
+               
+               <p>You can go ahead and build you house and I will furnish the money as needed. I enclose
+                  check to pay for the lot.</p>
+               
+               <p>Always yours</p>
+               
+               <p>Clay</p>
+               
+               <p>May 26 / 1902"</p>
+               
+            </div>
+            <div type="entry">
+               <head><pb n="159"/>Crock Cheese</head>
+               
+               <p>Put thick milk in a large pot. Heat and remove curds with skimmer. Put sauce in cheese
+                  cloth + drain dry. Then place sauce in crock + ?? by hand the cheese inside the
+                  cloth.</p>
+               
+               <p>Then place in flat 1/2 gallon crock, tying a cloth over the top of the crock and placing
+                  in a harm? place.</p>
+               
+               <p>Stir each day. After 3 days or more when it commences to have an odor, put butter in a
+                  skillet on the stove + place cheese in it, with a little salt sprinkled over the cheese
+                  and with half a cup of cream added.</p>
+               
+               <p>Then heat until all dissolved and smooth, then place in a crock to ??.</p>
+            </div>
+
+         
+      </body>
+  </text>
+</TEI>
