@@ -32,6 +32,7 @@
             <moduleRef key="header"/>
             <moduleRef key="namesdates"/>
             <moduleRef key="textstructure"/>
+            <moduleRef key="corpus"/>
             <!--ebb: For now, we're including all the elements in the above TEI modules complete. We can decide to exclude some later if we want to. -->
             <elementSpec ident="pb" module="core" mode="change">
                <attList>
@@ -43,7 +44,7 @@
             
             <elementSpec ident="persName" module="namesdates" mode="change">
  <attList>
-                  <attDef ident="ref" mode="replace" usage="req">
+                  <attDef ident="ref" mode="replace" usage="opt">
                      <datatype>
                         <rng:text/>
                      </datatype>

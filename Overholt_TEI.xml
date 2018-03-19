@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
      <!-- Read the chapter on TEI Headers. http://www.tei-c.org/release/doc/tei-p5-doc/en/html/HD.html -->
@@ -16,6 +16,26 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+     <profileDesc>
+        <particDesc>
+           <listPerson>
+              <person xml:id="">
+                 <persName>Joe</persName>
+                 <birth when="2000-05-26">May 26, 2000</birth>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="">
+                 <persName>Joe</persName>
+                 <birth when="2000-05-26">May 26, 2000</birth>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              
+              
+           </listPerson>
+           
+        </particDesc>
+        
+     </profileDesc>
   </teiHeader>
   <text>
       <body>
