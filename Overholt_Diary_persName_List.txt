@@ -1,27 +1,26 @@
 Overholt Diary persName list:
 
-Mother = Maria Overholt Frick Overholt
-G.F.O. = Abraham Overholt?
+Karl Frick Overholt = KFO
+Grandpap O. = Abraham Overholt = AO
+Uncle Clay = Henry Clay Frick = HCF
+Ada = Adelaide Howard Childs Frick = ACF
+Grace = Grace M Overholt = GMO
+Mother = Maria Overholt Frick Overholt = MFO
+Father = John S.R. Overholt = JSRO
+C.S.R.O. = Christian S.R. Overholt = CSRO
+A.O. Tinstman = Abraham Overholt Tinstman = AOT
+H.O. Tinstman = Harriet Overholt Tinstman (Harriet Cornelia Markle) = HOT
+Anna Leighty = Anna Leighty = ALT
+C.S.O. = Christian Stauffer Overholt = CSO
+Jacob S.O. = Jacob Stauffer Overholt = JSO
+Mrs. Fox = Mary F. Fox Overholt = MFFO 
+
+
 Ide = 
-Anna Leighty = Anna Leighty
-Mrs. Fox = Mrs. Fox
-Washing woman = ?
-C.S.R.O. = Christian S.R. Overholt
-Jacob S.O. = Jacob Stauffer Overholt
-A.O. Tinstman = Abraham Overholt Tinstman
-H.O. Tinstman = Harriet Overholt Tinstman?
-Mrs. Chain? = ?
-Uncle Clay = Henry Clay Frick
-A.O.T. = Abraham Overholt Tinstman
-H.O.T. = Harriet OVerholt Tinstman?
-Uncle Cris S.R.O. = Christian S.R. Overholt
-Grandpap O. = Abraham Overholt
+Mrs. Chain? = Mrs. Chain
 Chester Booker = Chester Booker
-Father = John S.R. Overholt
-C.S.O. = Christian Stauffer Overholt
-"My dear sister" = Maria Overholt Frick Overholt
-Grace = Grace M Overholt
-Ada = Adelaide Howard Childs Frick
-Clay = Henry Clay Frick
+
+
+
 
 

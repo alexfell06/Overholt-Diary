@@ -19,17 +19,88 @@
      <profileDesc>
         <particDesc>
            <listPerson>
-              <person xml:id="">
-                 <persName>Joe</persName>
-                 <birth when="2000-05-26">May 26, 2000</birth>
+              <person xml:id="KFO" sex="m">
+                 <persName>Karl Frick Overholt</persName>
+                 <birth when="1877-04-19">April 19, 1877</birth>
+                 <death when="1938">1938</death>
+                 <note>Author the Karl Frick Overholt Diary. Born in <placeName>Wooster, OH</placeName>. He is the son of <persName ref="#JSRO">John SR Overholt</persName> and <persName ref="#MFO">Maria Overholt Frick Overholt</persName>. He is the nephew of <persName ref="#HCF">Henry Clay Frick</persName> and the grandson of <persName ref="#AO">Abraham Overholt</persName>.</note>
+              </person>
+              <person xml:id="AO" sex="m">
+                 <persName>Abraham Overholt</persName>
+                 <birth when="1784-04-19">April 19, 1784</birth>
+                 <death when="1870-01-15">January 15, 1870</death>
+                 <note>Born in <placeName>Bucks County, PA</placeName>, but spent a majority of his life in <placeName>West Overton, PA</placeName>. Distilled whiskey in <placeName>West Overton, PA</placeName> and sold it commercially. Built the homestead that currently stands on the property. He is the father of <persName ref="#JSO">Jacob Stauffer Overholt</persName> and <persName ref="#CSO">Jacob Stauffer Overholt</persName> and is the grandfather of <persName ref="#MFO">Maria Overholt Frick Overholt</persName> and <persName ref="#KFO">Karl Frick Overholt</persName>.</note>
+              </person>
+              <person xml:id="HCF" sex="m">
+                 <persName>Henry Clay Frick</persName>
+                 <birth when="1849-12-19">December 19, 1849</birth>
+                 <death when="1919-12-02">December 2, 1919</death>
+                 <note>Became one of the richest men in the world from the coal and coke industry. Born in the springhouse in the village of <placeName>West Overton, PA</placeName>. He is the husband of <persName ref="#ACF">Adelaide Childs Frick</persName>and the brother of <persName ref="#MFO">Maria Overholt Frick Overholt</persName>. He is the grandson of <persName ref="#AO">Abraham Overholt</persName>, and the uncle of <persName ref="#KFO">Karl Frick Overholt</persName></note>
+              </person>
+              <person xml:id="ACF" sex="f">
+                 <persName>Adelaide Howards Clay Frick</persName>
+                 <birth when="1859-12-16">December 16, 1859</birth>
+                 <death when="1931-10-04">October 4, 1931</death>
                  <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
               </person>
-              <person xml:id="">
-                 <persName>Joe</persName>
-                 <birth when="2000-05-26">May 26, 2000</birth>
+              <person xml:id="GMO" sex="f">
+                 <persName>Grace M Overholt</persName>
+                 <birth when="1872-10-25">October 25, 1872</birth>
+                 <death when="1894-04-04">April 4, 1894</death>
                  <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
               </person>
-              
+              <person xml:id="MFO" sex="f">
+                 <persName>Maria Overholt Frick Overholt</persName>
+                 <birth when="1849-12-19">February 9, 1848</birth>
+                 <death when="1919-12-02">January 24, 1939</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="JSRO" sex="m">
+                 <persName>John SR Overholt</persName>
+                 <birth when="1847-12-13">December 13, 1847</birth>
+                 <death when="1925-01-17">January 17, 1925</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="CSRO" sex="m">
+                 <persName>Christian SR Overholt</persName>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="AOT" sex="m">
+                 <persName>Abraham Overholt Tinstman</persName>
+                 <birth when="1834-09-13">September 13, 1834</birth>
+                 <death when="1915-12-14">December 14, 1915</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="HOT" sex="f">
+                 <persName>Harriet Overholt Tinstman</persName>
+                 <birth when="1847-09-28">September 28, 1847</birth>
+                 <death when="1926-08-09">August 9, 1926</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="ALT" sex="m">
+                 <persName>Abraham Overholt Tinstman</persName>
+                 <birth when="1829-12-31">December 31, 1829</birth>
+                 <death when="1909-01-26">January 26, 1909</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="CSO" sex="m">
+                 <persName>Christian Stauffer Overholt</persName>
+                 <birth when="1824-10-18">October 18, 1824</birth>
+                 <death when="1911-01-31">January 31, 1911</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="JSO" sex="m">
+                 <persName>Jacob Stauffer Overholt</persName>
+                 <birth when="1814">1814</birth>
+                 <death when="1859">1859</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
+              <person xml:id="MFFO" sex="f">
+                 <persName>Mary F. Fox Overholt</persName>
+                 <birth when="1816">1816</birth>
+                 <death when="1895">1895</death>
+                 <note>Stuff we know about this person. They lived in <placeName>Greensburg, PA</placeName>. They are related to <persName></persName></note>
+              </person>
               
            </listPerson>
            

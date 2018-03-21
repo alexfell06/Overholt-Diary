@@ -48,19 +48,24 @@
                      <datatype>
                         <rng:text/>
                      </datatype>
-                    <!-- <valList type="closed">
-                        <valItem ident="#rick"/>
-                        <valItem ident="#morty"/>
-                        <valItem ident="#summer"/>
-                        <valItem ident="#jerry"/>
-                        <valItem ident="#beth"/>
-                        <valItem ident="#jennifer"/>
-                        <valItem ident="#tammy"/>
-                        <valItem ident="#squanchy"/>
-                        <valItem ident="#birdPerson"/>
-                        <valItem ident="#evilMorty"/>
-                        <valItem ident="#evilRick"/>
-                     </valList>-->
+                    <valList type="closed">
+                        <valItem ident="#KFO"/>
+                        <valItem ident="#MFO"/>
+                        <valItem ident="#AO"/>
+                        <valItem ident="#CSRO"/>
+                        <valItem ident="#JSO"/>
+                        <valItem ident="#AOT"/>
+                        <valItem ident="#HCF"/>
+                        <valItem ident="#JSRO"/>
+                        <valItem ident="#CSO"/>
+                        <valItem ident="#ACF"/>
+                        <valItem ident="#ALT"/>
+                        <valItem ident="#HOT"/>
+                        <valItem ident="#GMO"/>
+                        <valItem ident="#CB"/>
+                        <valItem ident="#MFFO"/>
+                        <valItem ident="#Chain"/>
+                     </valList>
                   </attDef></attList>
             </elementSpec>
             
