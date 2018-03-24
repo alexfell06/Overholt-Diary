@@ -10,7 +10,7 @@ Father = John S.R. Overholt = JSRO
 C.S.R.O. = Christian S.R. Overholt = CSRO
 A.O. Tinstman = Abraham Overholt Tinstman = AOT
 H.O. Tinstman = Harriet Overholt Tinstman (Harriet Cornelia Markle) = HOT
-Anna Leighty = Anna Leighty = ALT
+Anna Leighty = Anna Leighty = ALT (Anna Leighty - married Jacob Overholt Tinstman)
 C.S.O. = Christian Stauffer Overholt = CSO
 Jacob S.O. = Jacob Stauffer Overholt = JSO
 Mrs. Fox = Mary F. Fox Overholt = MFFO 

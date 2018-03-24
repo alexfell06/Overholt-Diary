@@ -65,6 +65,17 @@
                         <valItem ident="#CB"/>
                         <valItem ident="#MFFO"/>
                         <valItem ident="#Chain"/>
+                        <valItem ident="#ASRO"/>
+                        <valItem ident="#JDO"/>
+                        <valItem ident="#ESO"/>
+                        <valItem ident="#NB"/>
+                        <valItem ident="#JB"/>
+                        <valItem ident="#LS"/>
+                        <valItem ident="#HSO"/>
+                        <valItem ident="#SAO"/>
+                        <valItem ident="#JR"/>
+                        <valItem ident="#RO"/>
+                        <valItem ident="#CO"/>
                      </valList>
                   </attDef></attList>
             </elementSpec>
