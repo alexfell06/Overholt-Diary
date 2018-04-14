@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="ODD/out/OverholtODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
@@ -252,8 +251,7 @@
    <text>
       <body>
          <div type="entry">
-            <head><pb n="74"/>Christmas at West Overton.</head>
-
+            <head><pb facs="KFODiary_p74.jpg" n="74"/>Christmas at West Overton.</head>
             <p>On the night before <persName ref="#MFO">mother</persName> + J.F.O. would place
                plates on the living room table, and would find them on <abbr>Xmas</abbr> morning
                heaped with fancy cakes, dried cherries + candies! Also, on the night before,
@@ -265,11 +263,11 @@
                Church at <placeName>Alverton</placeName> and have a special <abbr>Xmas</abbr> dinner
                at </p>
 
-            <p><pb n="75"/>home after the Service.</p>
+            <p><pb facs="KFODiary_p75.jpg" n="75"/>home after the Service.</p>
 
          </div>
          <div type="entry">
-            <head><pb n="76"/>New Year's Eve at <placeName>Overton</placeName></head>
+            <head><pb facs="KFODiary_p76.jpg" n="76"/>New Year's Eve at <placeName>Overton</placeName></head>
 
             <p>There would be a merry company gathered in the home, awaiting the coming of the
                patron Saint Belschnickel!</p>
@@ -282,7 +280,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="89"/><persName ref="#MFO">Mothers</persName> duties, when a little girl,+
+            <head><pb facs="KFODiary_p89.jpg" n="89"/><persName ref="#MFO">Mothers</persName> duties, when a little girl,+
                later</head>
 
             <p>Would keep water pitcher on G+JFO's wash-stand full: also would keep drinking water
@@ -306,7 +304,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="90"/><persName ref="#CSRO">C.S.R.O.</persName> history + incidents</head>
+            <head><pb facs="KFODiary_p90.jpg" n="90"/><persName ref="#CSRO">C.S.R.O.</persName> history + incidents</head>
 
             <p>When nightman at <abbr><placeName>W. 0.</placeName></abbr>
                <unclear reason="illegible">w'ill?</unclear>, once he by mistake took a jug
@@ -324,7 +322,7 @@
                   >Jacob S.O.</persName> had lived. Suceeded by <persName ref="#AOT">A.O.
                   Tinstman</persName></p>
 
-            <p><pb n="91"/>(2) From late <date when="1867">'67</date> to early <date when="1869"
+            <p><pb facs="KFODiary_p91.jpg" n="91"/>(2) From late <date when="1867">'67</date> to early <date when="1869"
                   >'69</date>, when he was in the <abbr><placeName>Bfd</placeName></abbr>
                Distillery. He lived in a second floor room in the hash? house on the <persName
                   ref="#HOT">H.O. Tinstman</persName> place, and boarded at the <persName ref="#HOT"
@@ -349,7 +347,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="92"/><date when="1870-01-15">Jan. 15, 1870</date> - 6a.m.)</head>
+            <head><pb facs="KFODiary_p92.jpg" n="92"/><date when="1870-01-15">Jan. 15, 1870</date> - 6a.m.)</head>
 
             <p><persName ref="#AO">Grandpap O.</persName> died suddenly from a stroke, having gone
                to outhouse with lantern before breakfast.<unclear reason="illegible"> ??
@@ -368,7 +366,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="141"/>My dear <persName ref="#MFO">Sister</persName>:</head>
+            <head><pb facs="KFODiary_p141.jpg" n="141"/>My dear <persName ref="#MFO">Sister</persName>:</head>
 
             <p>We are deeply shocked and pained to hear of the death of <persName ref="#GMO"
                   >Grace</persName>. We had heard some time ago that she was ailing but presumed she
@@ -389,7 +387,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="147"/><date when="1902-05-26">May 26. 1902</date></head>
+            <head><pb facs="KFODiary_p147.jpg" n="147"/><date when="1902-05-26">May 26. 1902</date></head>
 
             <p><persName ref="#HCF">Uncle Clay</persName> sent <persName ref="#MFO"
                   >mother</persName> check for 3.000$ to buy lot (195' by 225') on <placeName>Bealle
@@ -408,7 +406,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="159"/>Crock Cheese</head>
+            <head><pb facs="KFODiary_p159.jpg" n="159"/>Crock Cheese</head>
 
             <p>Put thick milk in a large pot. Heat and remove curds with skimmer. Put sauce in
                cheese cloth + drain dry. Then place sauce in crock + <unclear reason="illegible"
@@ -426,7 +424,7 @@
          </div>
 
          <div type="entry">
-            <head><pb n="181"/><date when="1837-12-13">Dec. 13th, 1837</date></head>
+            <head><pb facs="KFODiary_p181.jpg" n="181"/><date when="1837-12-13">Dec. 13th, 1837</date></head>
 
             <p><persName ref="#JSRO">Father</persName> + <persName ref="#ASRO">Uncle Aaron
                   S.R.O.</persName> born on <persName ref="#JDO">his fathers</persName> 147 acre
@@ -445,7 +443,7 @@
                was about 5 yrs. old. <persName ref="#CSRO">CSRO</persName> says she was slender +
                tall, dark hair brown eyes.</p>
 
-            <p><pb n="182"/><persName ref="#JDO">Father's father, Bishop John D.O.</persName>
+            <p><pb facs="KFODiary_p182.jpg" n="182"/><persName ref="#JDO">Father's father, Bishop John D.O.</persName>
                married again about one year later. His second marriage seemed necessary to hold the
                family together and to bring them up properly. His second wife was <persName
                   ref="#NB">Nancy Bixler</persName>, born <date when="1801">1801</date>, who had
@@ -463,7 +461,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="184"/>School Days</head>
+            <head><pb facs="KFODiary_p184.jpg" n="184"/>School Days</head>
 
             <p>Went to the West Overton School (at crest of hill east of town) until about 20
                   <abbr>yrs.</abbr> of age.</p>
@@ -483,7 +481,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="188"/><date when="1860-10"><abbr>Oct.</abbr> 1860</date> to <date
+            <head><pb facs="KFODiary_p188.jpg" n="188"/><date when="1860-10"><abbr>Oct.</abbr> 1860</date> to <date
                   when="1862-08">August 1862</date>.</head>
 
             <p>After graduating from the Business College course, <persName ref="#JSRO"
@@ -506,7 +504,7 @@
                   <persName ref="#ASRO">Uncle Aaron</persName> about it, who thought it would be of
                no avail to ask JDO again.</p>
 
-            <p><pb n="189"/>However <persName ref="#JSRO">father</persName> said that he was going
+            <p><pb facs="KFODiary_p189.jpg" n="189"/>However <persName ref="#JSRO">father</persName> said that he was going
                to ask <persName ref="#JDO">his father JDO</persName> and was going to insist upon
                enlisting + getting <persName ref="#JDO">JDO's</persName> consent.</p>
 
@@ -518,7 +516,7 @@
                War.</p>
          </div>
          <div type="entry">
-            <head><pb n="226"/><date when="1871-03-10">Mar. 10th 1871</date></head>
+            <head><pb facs="KFODiary_p226.jpg" n="226"/><date when="1871-03-10">Mar. 10th 1871</date></head>
 
             <p><persName ref="#HCF">Uncle Clay's</persName> first coal purchase was at
                   <placeName>Broadford</placeName>, + his partners were <persName ref="#JSRO"
@@ -538,7 +536,7 @@
             <p><persName ref="#JSRO">Father</persName> was manager + <persName ref="#HCF">Uncle
                   Clay</persName> head, each at a salary of $1000 a year.</p>
 
-            <p><pb n="227"/>Fifty ovens were first constructed, called "Novelty Works."</p>
+            <p><pb facs="KFODiary_p227.jpg" n="227"/>Fifty ovens were first constructed, called "Novelty Works."</p>
 
             <p>During excavation work for the ovens, 25 or 30 men were almost burned alive, being
                saved in the nick of time by <persName ref="#JSRO">Fathers</persName> calling to them
@@ -560,7 +558,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="228"/><date when="1871-07-06">July 6th 1871</date>.</head>
+            <head><pb facs="KFODiary_p228.jpg" n="228"/><date when="1871-07-06">July 6th 1871</date>.</head>
             <p>Father's father + step mother, I.E. <persName ref="#JDO">Bishop John DO</persName> +
                   <persName ref="#NB">Nancy</persName> his 2nd wife deeded home farm of 147 acres to
                   <persName ref="#JSRO">Father</persName>, Aunt Bettie + <persName ref="#CSRO">Uncle
@@ -572,7 +570,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="236"/><date when="1869-01-06">Jan. 6th, 1869</date></head>
+            <head><pb facs="KFODiary_p236.jpg" n="236"/><date when="1869-01-06">Jan. 6th, 1869</date></head>
 
 
             <p><persName ref="#JSRO">Father's</persName> twin brother <persName ref="#ASRO">Aaron
@@ -590,7 +588,7 @@
 
          </div>
          <div type="entry">
-            <head><pb n="264"/><date when="1877-04-19">April 19, 1877</date></head>
+            <head><pb facs="KFODiary_p264.jpg" n="264"/><date when="1877-04-19">April 19, 1877</date></head>
 
             <p><persName ref="#KFO">K.F.O.</persName> born</p>
 

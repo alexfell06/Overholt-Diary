@@ -34,13 +34,7 @@
             <moduleRef key="textstructure"/>
             <moduleRef key="corpus"/>
             <!--ebb: For now, we're including all the elements in the above TEI modules complete. We can decide to exclude some later if we want to. -->
-            <elementSpec ident="pb" module="core" mode="change">
-               <attList>
-                  <attDef ident="facs" mode="change" usage="req"> <!-- This is to hold images of the diary pages. -->
-                  </attDef>
-               </attList>
-            </elementSpec>
-           
+            
             
             <elementSpec ident="persName" module="namesdates" mode="change">
  <attList>
@@ -79,14 +73,7 @@
                      </valList>
                   </attDef></attList>
             </elementSpec>
-            
-       <!--2018-03-15: ebb: Write a Schematron constraint that indicates for each distinct value of persName | speaker, there must be one and only one @level defined.     <constraintSpec>
-               
-            </constraintSpec>
-            -->
-            
-            
-            
+         
       </schemaSpec>
       </body>
   </text>
