@@ -11,9 +11,12 @@ div#facsimile{flex:1; margin:2em;
 }
 div#facsimile img{width:100%}
 
-div#transcript{flex:2; margin:2em;   
+div#transcript{flex:2; margin:2em;  
 }
 span.pagenum{font-size:.75em; color:brown;}
+div.nav {margin-top:2em; display:flex; align-items:flex-start; flex-direction:row; justify-content:center}
+a.nav, a.nav:active, a.nav:visited, a.nav:hover {color:brown; border: 1px solid brown; padding:.25em; margin:.25em;
+    border-radius: 10px; text-decoration: none; }
 h1{
     font-size: 3em;
     text-align: center;
