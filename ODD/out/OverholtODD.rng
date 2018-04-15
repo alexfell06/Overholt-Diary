@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2018-04-14T23:23:55Z. .
+Schema generated from ODD source 2018-04-15T00:04:12Z. .
 TEI Edition: Version 3.3.0. Last updated on
 	31st January 2018, revision f4d8439
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.3.0/
@@ -4267,6 +4267,10 @@ Elements]</a:documentation>
          <ref name="teiatt.edition.attributes"/>
          <ref name="teiatt.spanning.attributes"/>
          <ref name="teiatt.breaking.attributes"/>
+         <attribute name="facs">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+            <data type="anyURI"/>
+         </attribute>
          <empty/>
       </element>
    </define>

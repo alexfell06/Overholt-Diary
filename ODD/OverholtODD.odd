@@ -35,6 +35,15 @@
             <moduleRef key="corpus"/>
             <!--ebb: For now, we're including all the elements in the above TEI modules complete. We can decide to exclude some later if we want to. -->
             
+           <!--2018-04-14 ebb: We shouldn't have to declare this because the pb is supposed to subscribe by default to att.global.facs, an attribute class in which only @facs is a member. 
+              If we don't have this elementSpec, though, @facs throws a validation error in the output TEI produced by this ODD.  -->
+            <elementSpec ident="pb" module="core" mode="change">
+               <attList><attDef ident="facs" mode="add" usage="req">
+                  <datatype>
+                     <dataRef name="anyURI"/>
+                  </datatype>
+               </attDef></attList>
+            </elementSpec>
             
             <elementSpec ident="persName" module="namesdates" mode="change">
  <attList>
@@ -73,6 +82,7 @@
                      </valList>
                   </attDef></attList>
             </elementSpec>
+         
          
       </schemaSpec>
       </body>
