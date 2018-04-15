@@ -232,7 +232,7 @@
    </teiHeader>
    <text>
       <body>
-         <div type="entry" n="1">
+         <div type="entry" xml:id="KFO-74">
             <head><pb facs="KFODiary_p074.jpg" n="74"/>Christmas at West Overton.</head>
             <p>On the night before <persName ref="#MFO">mother</persName> + J.F.O. would place
                plates on the living room table, and would find them on <abbr>Xmas</abbr> morning
@@ -248,7 +248,7 @@
             <p><pb facs="KFODiary_p075.jpg" n="75"/>home after the Service.</p>
 
          </div>
-         <div type="entry" n="2">
+         <div type="entry" xml:id="KFO-76">
             <head><pb facs="KFODiary_p076.jpg" n="76"/>New Year's Eve at <placeName>Overton</placeName></head>
 
             <p>There would be a merry company gathered in the home, awaiting the coming of the
@@ -260,7 +260,7 @@
                   Leighty</persName> .</p>
 
          </div>
-         <div type="entry" n="3">
+         <div type="entry" xml:id="KFO-89">
             <head><pb facs="KFODiary_p089.jpg" n="89"/><persName ref="#MFO">Mothers</persName> duties, when a little girl,+
                later</head>
 
@@ -281,7 +281,7 @@
             <p>Would sweep + dust on the 2nd, 3rd floors; Would <unclear reason="illegible">???</unclear> the big porch floor + scour the threshold stone!</p>
 
          </div>
-         <div type="entry" n="4">
+         <div type="entry" xml:id="KFO-90">
             <head><pb facs="KFODiary_p090.jpg" n="90"/><persName ref="#CSRO">C.S.R.O.</persName> history + incidents</head>
 
             <p>When nightman at <abbr><placeName>W. 0.</placeName></abbr>
@@ -318,7 +318,7 @@
                died.</p>
 
          </div>
-         <div type="entry" n="5">
+         <div type="entry" xml:id="KFO-92">
             <head><pb facs="KFODiary_p092.jpg" n="92"/><date when="1870-01-15">Jan. 15, 1870</date> - 6a.m.)</head>
 
             <p><persName ref="#AO">Grandpap O.</persName> died suddenly from a stroke, having gone
@@ -335,7 +335,7 @@
                home next morning when they heard of his health, at top of hill at <unclear reason="illegible">??</unclear></p>
 
          </div>
-         <div type="entry" n="6">
+         <div type="entry" xml:id="KFO-141">
             <head><pb facs="KFODiary_p141.jpg" n="141"/>My dear <persName ref="#MFO">Sister</persName>:</head>
 
             <p>We are deeply shocked and pained to hear of the death of <persName ref="#GMO">Grace</persName>. We had heard some time ago that she was ailing but presumed she
@@ -354,7 +354,7 @@
             <p><date when="1894-04-05">Apl 5/94</date></p>
 
          </div>
-         <div type="entry" n="7">
+         <div type="entry" xml:id="KFO-147">
             <head><pb facs="KFODiary_p147.jpg" n="147"/><date when="1902-05-26">May 26. 1902</date></head>
 
             <p><persName ref="#HCF">Uncle Clay</persName> sent <persName ref="#MFO">mother</persName> check for 3.000$ to buy lot (195' by 225') on <placeName>Bealle
@@ -372,7 +372,7 @@
             <p><date when="1902-05-26">May 26 / 1902</date>"</p>
 
          </div>
-         <div type="entry" n="8">
+         <div type="entry" xml:id="KFO-159">
             <head><pb facs="KFODiary_p159.jpg" n="159"/>Crock Cheese</head>
 
             <p>Put thick milk in a large pot. Heat and remove curds with skimmer. Put sauce in
@@ -388,7 +388,7 @@
             <p>Then heat until all dissolved and smooth, then place in a crock to <unclear reason="illegible">??</unclear>.</p>
          </div>
 
-         <div type="entry" n="9">
+         <div type="entry" xml:id="KFO-181">
             <head><pb facs="KFODiary_p181.jpg" n="181"/><date when="1837-12-13">Dec. 13th, 1837</date></head>
 
             <p><persName ref="#JSRO">Father</persName> + <persName ref="#ASRO">Uncle Aaron
@@ -421,7 +421,7 @@
                but 10' shorter + narrower.</p>
 
          </div>
-         <div type="entry" n="10">
+         <div type="entry" xml:id="KFO-184">
             <head><pb facs="KFODiary_p184.jpg" n="184"/>School Days</head>
 
             <p>Went to the West Overton School (at crest of hill east of town) until about 20
@@ -439,7 +439,7 @@
                him $300.00</p>
 
          </div>
-         <div type="entry" n="11">
+         <div type="entry" xml:id="KFO-188">
             <head><pb facs="KFODiary_p188.jpg" n="188"/><date when="1860-10"><abbr>Oct.</abbr> 1860</date> to <date when="1862-08">August 1862</date>.</head>
 
             <p>After graduating from the Business College course, <persName ref="#JSRO">father</persName> went back home and worked in the West Overton Store at
@@ -468,7 +468,7 @@
                   <abbr>P.O.</abbr> for his "Philadelphia Inquirer" paper, to get the news of the
                War.</p>
          </div>
-         <div type="entry" n="12">
+         <div type="entry" xml:id="KFO-226">
             <head><pb facs="KFODiary_p226.jpg" n="226"/><date when="1871-03-10">Mar. 10th 1871</date></head>
 
             <p><persName ref="#HCF">Uncle Clay's</persName> first coal purchase was at
@@ -505,7 +505,7 @@
                above everyone else.</p>
 
          </div>
-         <div type="entry" n="13">
+         <div type="entry" xml:id="KFO-228">
             <head><pb facs="KFODiary_p228.jpg" n="228"/><date when="1871-07-06">July 6th 1871</date>.</head>
             <p>Father's father + step mother, I.E. <persName ref="#JDO">Bishop John DO</persName> +
                   <persName ref="#NB">Nancy</persName> his 2nd wife deeded home farm of 147 acres to
@@ -516,7 +516,7 @@
                leased the home farm to Blair Frances "on equal shares" for one year (<date when="1871-04-01">4/1/71</date> to <date when="1872-04-01">4/1/72</date>)</p>
 
          </div>
-         <div type="entry" n="14">
+         <div type="entry" xml:id="KFO-236">
             <head><pb facs="KFODiary_p236.jpg" n="236"/><date when="1869-01-06">Jan. 6th, 1869</date></head>
 
 
@@ -534,7 +534,7 @@
                born single.</p>
 
          </div>
-         <div type="entry" n="15">
+         <div type="entry" xml:id="KFO-264">
             <head><pb facs="KFODiary_p264.jpg" n="264"/><date when="1877-04-19">April 19, 1877</date></head>
 
             <p><persName ref="#KFO">K.F.O.</persName> born</p>

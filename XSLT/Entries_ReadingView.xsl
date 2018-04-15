@@ -11,7 +11,7 @@
     <xsl:template match="/">
         <xsl:for-each-group select="//div[@type='entry']" group-starting-with="div[@type='entry']">
             
-            <xsl:result-document href="../Web/ODEntry_{@n}.html" method="xhtml" indent="yes">
+            <xsl:result-document href="../Web/{@xml:id}.html" method="xhtml" indent="yes">
                 <html>
                 <head><title>K. F. Overholt Diary: Entry <xsl:value-of select="@n"/></title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -27,6 +27,10 @@
                     <!--<span class="entryRef">Entry <xsl:value-of select="@n"/>:</span> -->
                     <xsl:apply-templates select="head" mode="head"/>
                     <xsl:apply-templates/>
+                  <div class="nav">  
+                      <xsl:if test="preceding-sibling::div[@type='entry']"><a href="{preceding-sibling::div[@type='entry'][1]/@xml:id}.html"><button class="nav" id="next">Previous available entry</button></a></xsl:if>
+                      <xsl:if test="following-sibling::div[@type='entry']"> <a href="{following-sibling::div[@type='entry'][1]/@xml:id}.html"><button class="nav" id="next">Next available entry</button></a></xsl:if>
+                  </div>
                 </div>
                
             </body>

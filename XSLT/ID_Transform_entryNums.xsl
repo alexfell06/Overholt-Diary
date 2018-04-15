@@ -7,7 +7,7 @@
     <xsl:mode on-no-match="shallow-copy"/>
     
     <xsl:template match="div[@type='entry']">
-        <div type="entry" n="{count(preceding::div[@type='entry']) + 1}">
+        <div type="entry" xml:id="KFO-{descendant::pb[1]/@n}">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
