@@ -15,16 +15,17 @@
                 <html>
                 <head><title>K. F. Overholt Diary: Entry <xsl:value-of select="@n"/></title>
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                <link rel="stylesheet" type="text/css" href="css/OverholtEntries.css"/>
+                <link rel="stylesheet" type="text/css" href="CSS/OverholtEntries.css"/>
             
             </head>
             <body>
-               <span class="entryRef">Entry <xsl:value-of select="@n"/>:</span> 
-               <xsl:apply-templates select="head" mode="head"/>
+               
                 <div id="facsimile">
                     <xsl:apply-templates select="descendant::pb" mode="facsim"/>
                 </div>
                 <div id="transcript">
+                    <!--<span class="entryRef">Entry <xsl:value-of select="@n"/>:</span> -->
+                    <xsl:apply-templates select="head" mode="head"/>
                     <xsl:apply-templates/>
                 </div>
                
@@ -33,11 +34,11 @@
         </xsl:for-each-group>
     </xsl:template>
     <xsl:template match="pb" mode="facsim">
-        <img src="KFO_Diary/{@facs}" alt="page {@n} image in the Overholt Diary"/>
+        <img src="KFODiary_Web/{@facs}" alt="page {@n} image in the Overholt Diary"/>
     </xsl:template>
     
     <xsl:template match="head" mode="head">
-        <h1><xsl:apply-templates select="text()"/></h1><xsl:text> </xsl:text><xsl:apply-templates select="pb"/>
+        <h1><xsl:apply-templates select="node()[not(./name() = 'pb')]"/></h1><xsl:text> </xsl:text><xsl:apply-templates select="pb"/>
     </xsl:template>
     <xsl:template match="pb">
         <span class="pagenum"><xsl:value-of select="@n"/></span>

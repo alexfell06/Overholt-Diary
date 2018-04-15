@@ -1,28 +1,39 @@
-html{
-   margin: 0px;
-    padding: 0px;
-    
-    background-repeat: repeat;
-    background-size: 100%;
-    }
-    
 body{
     font-family: "times new roman";
-    color: white;
+    color: black;
     width:100%;
     margin: 0px;
     padding: 0px;
+    display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row;
 }
+div#facsimile{flex:1; margin:2em; 
+    
+}
+div#facsimile img{width:100%}
 
-
-
-
+div#transcript{flex:2; margin:2em;   
+}
+span.pagenum{font-size:.75em; color:brown;}
 h1{
-    font-size: 70px;
+    font-size: 3em;
     text-align: center;
     font-family: "Times new roman";
     color:black;
 }
+h2{font-size: 2em;}
+h3{
+    text-indent: 10px;
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
 
 div.header{
     font-size: 20px;
@@ -97,7 +108,7 @@ div.img{
     margin-top: 2%;
     margin-bottom: 2%;
 }
-img[id]{
+/*img[id]{
     width: 100%;
     border-width: 5px;
     border-style: solid;
@@ -132,11 +143,8 @@ div.main2{
     padding-bottom: 1%;
     background: white;
     }
+*/
 
 
 
-h3{
-    text-indent: 10px;
-    font-size: 18px;
-}
 
