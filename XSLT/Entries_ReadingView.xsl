@@ -28,7 +28,7 @@
                     <xsl:apply-templates select="head" mode="head"/>
                     <xsl:apply-templates/>
                   <div class="nav">  
-                      <xsl:if test="preceding-sibling::div[@type='entry']"><a class="nav" id="next" href="{preceding-sibling::div[@type='entry'][1]/@xml:id}.html">Previous available entry</a></xsl:if>
+                      <xsl:if test="preceding-sibling::div[@type='entry']"><a class="nav" id="previous" href="{preceding-sibling::div[@type='entry'][1]/@xml:id}.html">Previous available entry</a></xsl:if>
                       <xsl:if test="following-sibling::div[@type='entry']"> <a class="nav" id="next" href="{following-sibling::div[@type='entry'][1]/@xml:id}.html">Next available entry</a></xsl:if>
                   </div>
                 </div>
