@@ -1,0 +1,19 @@
+<p>Information about the source</p>
+
+West Overton was a small Mennonite community located in Westmoreland County, Pennsylvania that today is the location of <ref target="https://www.westovertonvillage.org/">West Overton Village and Museums</ref>, a museum displaying the history and accomplishments of the people who lived there. The first family to settle in this village where the Overholts led by Henry Kolb Overholt. They were a Mennonite family of German-Swiss heritage and Anabaptist religious roots. Henry Kolb's son Abraham began distilling and selling whiskey in the early nineteenth century, resulting in the Overholts becoming very wealthy.
+The focus of this project is a diary written by Karl Frick Overholt, one of the great-grandsons of Abraham Overholt. The contents of this diary include family stories, ancestry trees, diagrams, and newspaper clippings, among other things, making it an invaluable resource to the museum and interesting to analyze.
+
+
+About the Team
+
+Alex Fell
+Alex is a History and Public Policy major at the University of Pittsburgh at Greensburg. He currently works at West Overton Village & Museums, which is where the idea of the Karl Frick Overholt Diary project is from.
+
+Garrett Joiner
+Garrett is a Junior at the University of Pittsburgh at Greensburg. He is a history major as well he is pursuing a Digital Studies Certificate.
+
+
+About the Project
+
+To start the project, all 341 pages of the diary were scanned. These pages were copies, as the location of the original copy of the diary is unkown. Based on their contents, certain pages were selected to undergo Optical Character Recognition (OCR). This, along with simply reading and typing the pages, was used to convert the scanned images of the pages into a text format. From there, these text documents were transferred to Oxygen XML Editor in order to be marked up by hand.
+This marked-up text was then placed in a TEI document. One goal was to identify how frequently each person was mentioned throughout the journal entries. In order to accomplish this, a person list was created. Along with each person's id, this person list contained their birth and death dates, gender, and brief notes about them. 
