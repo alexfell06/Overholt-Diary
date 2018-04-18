@@ -123,14 +123,21 @@ div.main{
 }
 
 div.main2{
-    text-align: center;
-    letter-spacing: 2px;
-    line-height: 1.5;
+    font-family: "times new roman";
+    color: black;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 1%;
     padding-bottom: 1%;
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    float: left;
     background: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
     }
 
 
