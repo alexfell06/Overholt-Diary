@@ -83,6 +83,8 @@ a:active{
 h2{
     font-size: 25px;
     text-align: left;
+    color: black;
+    font-family: "Times new roman";
 }
 
 p{
@@ -145,6 +147,8 @@ div.main2{
 h3{
     text-indent: 10px;
     font-size: 18px;
+    color: black;
+    font-family: "Times new roman";
 }
 div#container{padding:10px;}
 div#thumbnails {padding:1.5em;}

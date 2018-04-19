@@ -8,7 +8,7 @@ html{
     
 body{
     font-family: "times new roman";
-    color: white;
+    color: black;
     width:100%;
     margin: 0px;
     padding: 0px;
@@ -47,7 +47,7 @@ hr {
 
 .header a{
     float: none;
-    color: white;
+    color: black;
     text-align: center;
     padding: 15px;
     text-decoration: none;
@@ -106,6 +106,7 @@ img[id]{
 
 div.main{
     font-family: "times new roman";
+    font-size: 100px;
     color: black;
     padding-left: 5%;
     padding-right: 5%;
@@ -144,6 +145,16 @@ div.main2{
 
 h3{
     text-indent: 10px;
-    font-size: 18px;
+    font-size: 30px;
 }
 
+flex-container{
+    display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row;
+    max-width: 960px;
+    
+}
+
+img#Karl{
+    height:100px;
+    width: 100px;
+}
