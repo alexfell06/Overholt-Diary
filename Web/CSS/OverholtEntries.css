@@ -4,8 +4,8 @@ body{
     width:100%;
     margin: 0px;
     padding: 0px;
-    display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row;
 }
+div#container{display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row;}
 div#facsimile{flex:1; margin:2em; 
     
 }
@@ -28,14 +28,6 @@ h3{
     text-indent: 10px;
     font-size: 1.5em;
 }
-
-
-
-
-
-
-
-
 
 
 div.header{
@@ -111,6 +103,9 @@ div.img{
     margin-top: 2%;
     margin-bottom: 2%;
 }
+
+span.unclear{color:maroon;}
+
 /*img[id]{
     width: 100%;
     border-width: 5px;
@@ -146,8 +141,8 @@ div.main2{
     padding-bottom: 1%;
     background: white;
     }
-*/
 
+*/
 
 
 

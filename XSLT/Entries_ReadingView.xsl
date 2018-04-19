@@ -14,25 +14,26 @@
             <xsl:result-document href="../Web/{@xml:id}.html" method="xhtml" indent="yes">
                 <html>
                 <head><title>K. F. Overholt Diary: Entry <xsl:value-of select="@n"/></title>
-                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+               
                 <link rel="stylesheet" type="text/css" href="CSS/OverholtEntries.css"/>
             
             </head>
             <body>
-               
+                <xsl:comment>#include virtual="SSI-Diarypages.html" </xsl:comment>
+            <div id="container">  
                 <div id="facsimile">
                     <xsl:apply-templates select="descendant::pb" mode="facsim"/>
                 </div>
                 <div id="transcript">
-                    <!--<span class="entryRef">Entry <xsl:value-of select="@n"/>:</span> -->
-                    <xsl:apply-templates select="head" mode="head"/>
+               
+                    <xsl:apply-templates select="head" mode="transcript"/>
                     <xsl:apply-templates/>
                   <div class="nav">  
                       <xsl:if test="preceding-sibling::div[@type='entry']"><a class="nav" id="previous" href="{preceding-sibling::div[@type='entry'][1]/@xml:id}.html">Previous available entry</a></xsl:if>
                       <xsl:if test="following-sibling::div[@type='entry']"> <a class="nav" id="next" href="{following-sibling::div[@type='entry'][1]/@xml:id}.html">Next available entry</a></xsl:if>
                   </div>
                 </div>
-               
+            </div> 
             </body>
         </html></xsl:result-document>
         </xsl:for-each-group>
@@ -41,10 +42,13 @@
         <img src="KFODiary_Web/{@facs}" alt="page {@n} image in the Overholt Diary"/>
     </xsl:template>
     
-    <xsl:template match="head" mode="head">
-        <h1><xsl:apply-templates select="node()[not(./name() = 'pb')]"/></h1><xsl:text> </xsl:text><xsl:apply-templates select="pb"/>
+    <xsl:template match="head" mode="transcript">
+        <h1><xsl:apply-templates select="node()[not(./name() = 'pb')]"/></h1><xsl:text> </xsl:text><xsl:apply-templates select="pb" mode="transcript"/>
     </xsl:template>
-    <xsl:template match="pb">
+    <xsl:template match="head//pb" mode="transcript">
+        <span class="pagenum"><xsl:value-of select="@n"/></span>
+    </xsl:template>
+    <xsl:template match="pb[not(ancestor::head)]">
         <span class="pagenum"><xsl:value-of select="@n"/></span>
     </xsl:template>
 <xsl:template match="p">
