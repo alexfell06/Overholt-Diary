@@ -1,3 +1,11 @@
+html{
+   margin: 0px;
+    padding: 0px;
+    
+    background-repeat: repeat;
+    background-size: 100%;
+    }
+
 body{
     font-family: "times new roman";
     color: black;
@@ -18,7 +26,7 @@ div.nav {margin-top:2em; display:flex; align-items:flex-start; flex-direction:ro
 a.nav, a.nav:active, a.nav:visited, a.nav:hover {color:brown; border: 1px solid brown; padding:.25em; margin:.25em;
     border-radius: 10px; text-decoration: none; }
 h1{
-    font-size: 3em;
+    font-size: 70px;
     text-align: center;
     font-family: "Times new roman";
     color:black;
