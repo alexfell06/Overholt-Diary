@@ -16,4 +16,5 @@ Garrett is a Junior at the University of Pittsburgh at Greensburg. He is a histo
 About the Project
 
 To start the project, all 341 pages of the diary were scanned. These pages were copies, as the location of the original copy of the diary is unkown. Based on their contents, certain pages were selected to undergo Optical Character Recognition (OCR). This, along with simply reading and typing the pages, was used to convert the scanned images of the pages into a text format. From there, these text documents were transferred to Oxygen XML Editor in order to be marked up by hand.
-This marked-up text was then placed in a TEI document. One goal was to identify how frequently each person was mentioned throughout the journal entries. In order to accomplish this, a person list was created. Along with each person's id, this person list contained their birth and death dates, gender, and brief notes about them. 
+This marked-up text was then placed in a TEI document. One goal was to identify how frequently each person was mentioned throughout the journal entries. In order to accomplish this, a person list was created. Along with each person's id, this person list contained their birth and death dates, gender, and brief notes about them.
+

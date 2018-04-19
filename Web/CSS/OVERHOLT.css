@@ -90,8 +90,15 @@ h2{
 p{
     font-size: 16px;
 }
+img[id]{
+width: 80%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
 
-div.img{
+}
+
+div.person div.img{
     /*float: right;
     width: 40%;*/
     padding-left: 5%;
@@ -102,34 +109,44 @@ div.img{
     justify-content:space-between;
     align-items:center;
     flex-direction:row;
-
 }
+
+
 div.img p{
     margin-left:1em;
+    flex:2
 }
-img[id]{
-    width: 100%;
+div.person div.img img[id]{
+/*    width: 100%;*/
     border-width: 5px;
     border-style: solid;
     border-color: black;
+    flex:1
 }
+div.flex-container{
+    width:100%; padding:2em; display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row;
+}
+div.flex-container div.img{
+width:40%;
 
+}
 div.main{
-    font-family: "times new roman";
+    font-family:"times new roman";
     color: black;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 1%;
     padding-bottom: 1%;
-    width: 30%;
+    width: 40%;
     margin-left: 5%;
     margin-top: 2%;
     margin-bottom: 2%;
-    float: left;
+/*    float: left;*/
     background: white;
     border-width: 5px;
     border-style: solid;
     border-color: black;
+  
 }
 
 div#about{width:100%; padding:2em; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row;    
